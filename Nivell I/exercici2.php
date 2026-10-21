@@ -4,7 +4,6 @@ $nombre = "";
 $apellido = "";
 $edad = "";
 
-
 $errorNombre = "";
 $errorApellido = "";
 $errorEdad = "";
